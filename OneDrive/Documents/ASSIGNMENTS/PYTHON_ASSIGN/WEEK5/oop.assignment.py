@@ -23,7 +23,7 @@ class SmartCameraPhone(Smartphone):
         return f"Taking photo with {self.camera_megapixels}MP camera"
 
 # Test the classes
-phone1 = Smartphone("OPPO", "A76", 128)
+phone1 = Smartphone("OPPO", "A76",128)
 phone2 = SmartCameraPhone("iPhone", "14 Pro", 128, 48)
 
 print(phone1.info())
