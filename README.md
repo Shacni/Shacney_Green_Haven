@@ -40,9 +40,7 @@ shacney-green-haven/
 ```
 
 ## Live Demo
-
-[View Website](https://your-github-username.github.io/shacney-green-haven/)
-
+https://samirashacney.netlify.app/
 ## Features
 
 - Modern teal color scheme
