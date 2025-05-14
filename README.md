@@ -61,7 +61,7 @@ https://samirashacney.netlify.app/
 
 1. Clone the repo:
    ```
-   git clone https://github.com/your-github-username/shacney-green-haven.git
+   git clone https://github.com/Shacni/Shacney_Green_Haven.git
    cd shacney-green-haven
    ```
 
