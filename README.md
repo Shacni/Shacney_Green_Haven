@@ -10,16 +10,31 @@ shacney-green-haven/
 │   ├── abayas.jpeg
 │   ├── customizable_shirt.jpeg
 │   ├── dress.jpeg
+│   ├── Casual Shop
+│   ├── Designer Sweater
+│   ├── Elegant Abaya
+│   ├── Luxe watch
+│   ├── Scented `Charm
+│   ├── Sport Sneekers
+│   ├── Stylish jeans
+│   ├── Vintage Feather Bracelet
 │   └── shacney.jpg
 ├── css/
 │   └── style.css
 ├── js/
+│   ├── products.js
 │   └── script.js
 ├── pages/
 │   ├── about.html
 │   ├── contact.html
 │   └── products.html
 ├── index.html
+│
+├──vite.config.js
+│
+├──package.json
+│
+├──package-lock.json
 │
 └── README.md
 ```
