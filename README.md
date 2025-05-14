@@ -1,32 +1,65 @@
-# Week 5 - Object-Oriented Programming (OOP) Assignment
+# Shacney Green Haven Website
 
-This project is part of my Python assignments for Week 5, focusing on **Object-Oriented Programming (OOP)** concepts such as classes, inheritance, and polymorphism.
+Welcome to the official website for **Shacney Green Haven**, a community-based shop located in Garissa, Kenya. This website showcases our products, services, and store values.
 
-## 📁 File
+## File Structure
 
-- `oop.assignment.py` — Main Python file demonstrating OOP concepts.
+```
+shacney-green-haven/
+├── images/
+│   ├── abayas.jpeg
+│   ├── customizable_shirt.jpeg
+│   ├── dress.jpeg
+│   └── shacney.jpg
+├── css/
+│   └── style.css
+├── js/
+│   └── script.js
+├── pages/
+│   ├── about.html
+│   ├── contact.html
+│   └── products.html
+├── index.html
+│
+└── README.md
+```
 
-## 📚 Concepts Covered
+## Live Demo
 
-- **Classes and Objects**
-- **Inheritance**
-- **Method Overriding**
-- **Polymorphism**
+[View Website](https://your-github-username.github.io/shacney-green-haven/)
 
-## 📌 Description
+## Features
 
-The assignment contains examples of:
+- Modern teal color scheme
+- Responsive design for all devices
+- Animated transitions
+- Product showcase
+- Contact information
+- Clean, user-friendly layout
 
-- A `Phone` class and subclasses like `OPPO` and `iPhone`.
-- A `Vehicle` class with subclasses such as `Car` and `Airplane`.
-- Demonstrations of calling subclass-specific methods like taking photos and flying.
+## Technologies
 
-It prints output based on object behavior, showing how different classes inherit and modify behavior from their parent classes.
+- HTML5
+- CSS3 (with media queries)
+- JavaScript
+- GitHub Pages for hosting
 
-## 🖥️ How to Run
+## Installation
 
-Make sure you have Python installed, then run:
+1. Clone the repo:
+   ```
+   git clone https://github.com/your-github-username/shacney-green-haven.git
+   cd shacney-green-haven
+   ```
 
-```bash
-python oop.assignment.py
+2. Open `index.html` in your browser
 
+## License
+
+This project is open-source under the MIT License.
+
+## Contact
+
+- **Store:** Shacney Green Haven
+- **Location:** Garissa, Kenya
+- **Phone:** +254 792425839
